@@ -60,8 +60,8 @@ html,body{
     height: 100%;
 }
 .hero{
-    background-image:url("ChatGPT\ Image\ Feb\ 5\,\ 2026\,\ 05_32_40\ PM.png");  /* your image name */
-    height: 100vh;
+    background-image:url("bg.png");  /* your image name */
+    height: 100%;
     width: 100%;
     background-size:cover;
     background-position:top center;
